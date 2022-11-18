@@ -1,7 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/luisfelipe2104">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2272F7&width=272&lines=Hello!;My+name+is+Luis!" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 <!--
-**luisfelipe2104/luisfelipe2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tiaguh/Tiaguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,16 +22,29 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/luisfelipe2104">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe2104&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe2104&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipe2104&theme=dark"/>
 </div>
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<br>
+
+<div align="center">
+<a href="https://github.com/Tiaguh">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe2104&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe2104&layout=compact&langs_count=7&theme=dark"/>
+</div
+
+<br>
+  
+<div align="center">
+  <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
+  
+  <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img align="center" src="https://img.icons8.com/color/48/javascript.png" >
+  <img align="center" src="https://img.icons8.com/color/48/python.png" >
+  <img align="center" src="https://img.icons8.com/color/48/html-5--v1.png" >
+  <img align="center" src="https://img.icons8.com/color/48/css3.png" >
+  <img align="center" src="https://img.icons8.com/color/48/mysql-logo.png" >
+  <img align="center" src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
