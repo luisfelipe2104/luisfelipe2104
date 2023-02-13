@@ -48,3 +48,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.icons8.com/color/48/mysql-logo.png" >
   <img align="center" src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
+![Snake animation](https://github.com/Tiaguh/Tiaguh/blob/output/github-contribution-grid-snake.svg)
