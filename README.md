@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luis;I'm+18+years+old;I+study+analysis+and+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipe2104&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117""/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipe2104&theme=tokyonight"/>
 </div>
 
 <div align="center">  
